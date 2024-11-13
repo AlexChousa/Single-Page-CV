@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 40px;
+    margin-top: 60px;
+    margin-bottom: 20px;
+}
+p {
+    margin-top: 6px;
+    margin-bottom: 6px;
+    font-size: 16px;
+}
+div {
+    margin-top: 18px;
+    margin-bottom: 18px;
+}
+ul {
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+
+.subtitle {
+    font-size: 20px;
+    font-weight: 600;
+    color: #55a570;
+}
+.title {
+    font-weight: 600;
+    color: #5d82ee;
+}
+.contact {
+    display: inline-block;
+    margin: 3px;
+}
+i.contact {
+    width: 20px;
+}
+hr {
+    border-top: 2px solid hsl(252, 2%, 45%);
+}
